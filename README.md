@@ -1,7 +1,7 @@
-# Advanced Multimodal Chatbot Readme
+# AIMIGO
 
 Welcome to my advanced multimodal chatbot! Here's a breakdown of what it can do and how to get it up and running.
-## HUMAIN multi-modal multi-task chatbot
+## AIMMIGO advanced multimodal multi-task chatbot
 <div align="center">
   <img src="images/AIMIGO.png" alt="AIMIGO">
 </div>
@@ -19,9 +19,6 @@ Welcome to my advanced multimodal chatbot! Here's a breakdown of what it can do 
 - Text and voice interaction: Interact with chatbot through both text and voice inputs.
 - Memory: The GPT models in the chatbot also have access to the memory (user's previous queries during the current session).
 
-NOTE: This chatbot includes both the RAG-GPT and WebRAGQuery projects.
-
-**YouTube video:** [Link](https://youtu.be/AAvqscJPXIY?si=ApZ9-WfFfyGbcd-H)
 
 ## Main underlying techniques used in this chatbot:
 - LLM chains and agents
