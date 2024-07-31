@@ -1,7 +1,7 @@
-# AIMIGO
+# AIMIGO - your AI-amigo (friend)
 
 Welcome to my advanced multimodal chatbot! Here's a breakdown of what it can do and how to get it up and running.
-## AIMMIGO advanced multimodal multi-task chatbot
+## AIMIGO advanced multimodal multi-task chatbot
 <div align="center">
   <img src="images/AIMIGO.png" alt="AIMIGO">
 </div>
